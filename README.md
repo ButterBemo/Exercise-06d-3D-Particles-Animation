@@ -1,4 +1,4 @@
-Exercise for MSCH-C220
+## Exercise for MSCH-C220
 
 An exploration of Godot's 3D Particles and 3D Sprites.
 
